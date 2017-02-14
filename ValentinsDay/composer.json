@@ -1,0 +1,19 @@
+{
+   "name": "Share/ValentinsDay",
+   "type": "project",
+   "authors": [
+       {
+           "name": "Pavlo Syrotyn",
+           "email": "psyrotyn@gmail.com"
+       }
+   ],
+   "minimum-stability": "stable",
+   "autoload": {
+       "classmap": [
+          "./"
+        ]
+   },
+   "require-dev": {
+        "phpunit/phpunit": "6.0.*"
+   }
+}
