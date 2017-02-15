@@ -10,7 +10,7 @@ class ComposerStaticInit15b4ef06749c91263cd4d5fc9aa3f9a6
         'ComposerAutoloaderInit15b4ef06749c91263cd4d5fc9aa3f9a6' => __DIR__ . '/..' . '/composer/autoload_real.php',
         'Composer\\Autoload\\ClassLoader' => __DIR__ . '/..' . '/composer/ClassLoader.php',
         'Composer\\Autoload\\ComposerStaticInit15b4ef06749c91263cd4d5fc9aa3f9a6' => __DIR__ . '/..' . '/composer/autoload_static.php',
-        'app\\components\\Router' => __DIR__ . '/../..' . '/app/components/Router.php',
+        'app\\Connect' => __DIR__ . '/../..' . '/app/Connect.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

@@ -9,5 +9,5 @@ return array(
     'ComposerAutoloaderInit15b4ef06749c91263cd4d5fc9aa3f9a6' => $vendorDir . '/composer/autoload_real.php',
     'Composer\\Autoload\\ClassLoader' => $vendorDir . '/composer/ClassLoader.php',
     'Composer\\Autoload\\ComposerStaticInit15b4ef06749c91263cd4d5fc9aa3f9a6' => $vendorDir . '/composer/autoload_static.php',
-    'app\\components\\Router' => $baseDir . '/app/components/Router.php',
+    'app\\Connect' => $baseDir . '/app/Connect.php',
 );
